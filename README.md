@@ -4,17 +4,9 @@ A starter repository for the CSC10014 Smart Virtual Assistant project.
 
 ## Setup
 
-TODO (Lab 1): write the exact steps a new teammate needs, from a fresh machine to
-running the app and the tests. Your partner will follow them without your help.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/mmhoang2521-byte/MMHoang.git
+   cd MMHoang
 
-## Run
-
-TODO
-
-## Test
-
-TODO
-
-## Project structure
-
-TODO
+   
